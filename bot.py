@@ -169,3 +169,5 @@ async def translate_text(bot,update):
        await update.message.edit(translation.text)
 
 app.run()
+
+
